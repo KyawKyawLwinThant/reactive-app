@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "reactive-app"
+    }
+  },
+  "defaultProject": "reactive-app",
+  "cli": {
+    "analytics": "e80d59ab-9907-4149-8b49-b484f54b4be3"
+  }
 }
